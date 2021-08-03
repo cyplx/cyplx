@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a chess engine using minimax.
 - 🌱 I’m currently learning Lua.
+
+
+![](https://github-readme-stats.vercel.app/api?username=cyplx&count_private=true&theme=synthwave&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyplx&count_private=true&layout=compact&theme=synthwave)
